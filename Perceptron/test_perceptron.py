@@ -1,8 +1,3 @@
-# Khaladkar, Kshitij
-# 1001-713-442
-# 2020-02-17
-# Assignment-01-02
-
 import numpy as np
 import pytest
 from perceptron import Perceptron
